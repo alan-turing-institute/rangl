@@ -1,5 +1,4 @@
 from rangl import Environment, Policy
-from pandas._libs.tslibs.timestamps import Timestamp
 
 
 def test_load():
